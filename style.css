@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+div h1{
+    color: red;
+    font-size: 3rem;
+    text-align: center;
+}
+.be{
+    margin-left: 25%;
+    width: 50%;   
+    margin-top: 100px;
+    color: white;
+    border: 5px solid white;
+   
+}
+div h2{
+    color: white;
+    text-align: center;
+    font-size: 3rem;
+}
